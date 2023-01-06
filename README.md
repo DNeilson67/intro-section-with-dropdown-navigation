@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/DNeilson67/intro-section-with-dropdown-navigation)
-- Live Site URL: [Live URL](https://dneilson67.github.io) (Not live yet)
+- Live Site URL: [Live URL](https://dneilson67.github.io/intro-section-with-dropdown-navigation/)
 
 ## My process
 
