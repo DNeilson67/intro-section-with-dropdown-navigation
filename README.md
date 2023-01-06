@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/DNeilson67/intro-section-with-dropdown-navigation)
+- Live Site URL: [Live URL](https://dneilson67.github.io) (Not live yet)
 
 ## My process
 
